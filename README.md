@@ -1,6 +1,6 @@
 # Projeto JUnit-Maven
 
-Este repositório contém um projeto Java que utiliza JUnit para testes unitários. O projeto foi configurado com Maven para gerenciar as dependências e construir o projeto.
+Este projeto é destinado ao aprendizado e desenvolvimento de testes unitários utilizando JUnit para testes unitários. O projeto foi configurado com Maven para gerenciar as dependências e construir o projeto.
 
 ## Estrutura do Projeto
 
